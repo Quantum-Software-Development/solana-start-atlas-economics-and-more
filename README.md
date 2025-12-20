@@ -32,6 +32,40 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 <br><br>
 
 
+
+## [Solana Quantum Computing]()  Via [Project Eleeven]() - Cryptographic Risks Develop - Core Infrastructure -  Deployed a Working Post-Quantum
+
+<br>
+
+
+The Solana Foundation has consulted with [Project Eleven]() to assess Solana’s readiness for the emergence of quantum computing.
+
+The objective is to strengthen the network’s long-term security as new cryptographic risks develop.
+
+
+<br>
+
+### As part of the engagement, [Project Eleven]() :
+
+[-]()  Assessed how future quantum advances could impact Solana’s core infrastructure
+
+[-]()  Deployed a working post-quantum signature system on a Solana testnet
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
 ## Seeker
 
 <br>
