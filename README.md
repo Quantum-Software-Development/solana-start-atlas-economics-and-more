@@ -3,12 +3,12 @@
 ##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
 
 
-<br>
+<br><br>
 
 # <p align="center">  🇶  **Solana Start Atlas Economics** 🇧🇷  [***BUILT DIFFERENT***]()  [***LITERALLY***]()
 
 
-<br>
+<br><br>
 
 
 ##### <p align="center">  Star Atlas Economic Paper [Here](https://github.com/Quantum-Software-Development/solana-start-atlas-economics/blob/ada9d48abf870db8e50136498067ad590ececbf7/star-atlas-economics-paper.pdf) - Star Atlas Site [Here](https://govern.staratlas.com/economy/economic-reports)
