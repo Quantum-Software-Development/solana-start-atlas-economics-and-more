@@ -5,8 +5,8 @@
 
 <br>
 
-# <p align="center">  🇶  [Solana Start Atlas Economics]() - 
-
+# <p align="center">  🇶  [Solana Start Atlas Economics]() - [***WE BUILD DI9FERENTLY - LITERALLY***]()
+ 
 <br><br>
 
 
