@@ -20,17 +20,31 @@
 https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 
 
-
-
 ##### <p align="center"> Let's Dance Galera Solana Remix - video by Fabi
 
 
+
+
+
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
 <br><br>
+
+
+## [***Blueshift  - ***Solana Agentic Hackathon***]()
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
 
 
 
