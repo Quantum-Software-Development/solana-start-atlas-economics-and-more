@@ -24,7 +24,7 @@ Star Atlas Economic Paper [Here](https://github.com/Quantum-Software-Development
 ###### <p align="center">
   Hello World !
   <br/>
-  Code is Logic. [Dance is Expression]().
+  [Code]() is Logic. [Dance]() is Expression.
   <br/>
   Built on Solana.
   <br/>
