@@ -22,11 +22,11 @@ Star Atlas Economic Paper [Here](https://github.com/Quantum-Software-Development
 [https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5](https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5)
 
 ###### <p align="center">
-  Hello World !
+  Hello [World]() !
   <br/>
-  [Code]() is Logic. [Dance]() is Expression.
+  Code is Logic. [Dance is Expression.]()
   <br/>
-  Built on Solana.
+  Built on [Solana]().
   <br/>
   [Music](): “DO IT LIKE THAT” — Epshy
   <br/>
