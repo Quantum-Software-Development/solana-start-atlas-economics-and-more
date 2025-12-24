@@ -11,19 +11,26 @@
 <br><br>
 
 
-##### <p align="center">  Star Atlas Economic Paper [Here](https://github.com/Quantum-Software-Development/solana-start-atlas-economics/blob/ada9d48abf870db8e50136498067ad590ececbf7/star-atlas-economics-paper.pdf) - Star Atlas Site [Here](https://govern.staratlas.com/economy/economic-reports)
- 
+<br>
+
+##### <p align="center">
+Star Atlas Economic Paper [Here](https://github.com/Quantum-Software-Development/solana-start-atlas-economics/blob/ada9d48abf870db8e50136498067ad590ececbf7/star-atlas-economics-paper.pdf) • Star Atlas Site [Here](https://govern.staratlas.com/economy/economic-reports)
+</p>
+
+<br><br>
+
+[https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5](https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5)
+
+##### <p align="center"> Hello World Let's Code and Dance  – Solana Remix • video by Fabi </p>
 
 <br><br>
 
 
-https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
-
-
-##### <p align="center"> Let's Dance Galera Solana Remix - video by Fabi
 
 
 
+
+====//=======
 
 <br><br>
 
