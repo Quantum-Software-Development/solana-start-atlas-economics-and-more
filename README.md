@@ -1,11 +1,11 @@
 <br>
 
-##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
+##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧  English](README.md)**\]   
 
 
 <br><br>
 
-# <p align="center"> 🇶 [Solana]() • [Star Atlas]() • [Mobile]() • [Quantum]() 🇧🇷  
+# <p align="center"> 🇶 [Solana]() • [Star Atlas]() • [Mobile]() • [Quantum]() 🇧🇷 🇬🇧  
 ### <p align="center"> ***Economics, Mobile, Agents & Post‑Quantum Security***
 
 <br><br>
