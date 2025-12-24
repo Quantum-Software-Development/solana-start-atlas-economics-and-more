@@ -11,10 +11,18 @@
 <br><br>
 
 
-<br>
+
+
+ <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
+<br><br>
+
 
 ### <p align="center"> Star Atlas Economic Paper [Here](https://github.com/Quantum-Software-Development/solana-start-atlas-economics/blob/ada9d48abf870db8e50136498067ad590ececbf7/star-atlas-economics-paper.pdf) • Star Atlas DAO Site [Here](https://govern.staratlas.com/)
 </p>
+
 
 <br><br>
 
