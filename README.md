@@ -30,13 +30,42 @@
 
 <p align="left">
   <sub>
-     Hello World ! <br/>
-    Code is Logic · Dance is Expression<br/>
-    Built on Solana<br/>
+     Hello [World]() !
+   <br/>
+    Code is Logic · [Dance is Expression]()
+   <br/>
+    Built on [Solana]()
+   <br/>
+   <br/>
+    🎶 DO IT LIKE THAT - Epshy
+   <br/>
+    🎥 by Fabi ⚡️
+  </sub>
+</p>
+
+
+<p align="left">
+  <sub>
+    Hello <a href="#">World</a>!<br/>
+    Code is Logic · <a href="#">Dance is Expression</a><br/>
+    Built on <a href="#">Solana</a><br/><br/>
     🎶 DO IT LIKE THAT — Epshy<br/>
     🎥 by Fabi ⚡️
   </sub>
 </p>
+
+
+<p align="left">
+  <sub>
+    Hello [World](#)!<br/>
+    Code is Logic · [Dance is Expression](#)<br/>
+    Built on [Solana](#)<br/><br/>
+    🎶 DO IT LIKE THAT — Epshy<br/>
+    🎥 by Fabi ⚡️
+  </sub>
+</p>
+
+
 
 <br><br>
 
