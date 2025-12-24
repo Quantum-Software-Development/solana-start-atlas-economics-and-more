@@ -3,6 +3,8 @@
 ##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧  English](README.md)**\]   
 
 
+<!-- START HEADER -->
+
 <br><br>
 
 # <p align="center"> 🇶 [Solana]() • [Star Atlas]() • [Mobile]() • [Quantum]() 🇧🇷 🇬🇧  
@@ -42,10 +44,30 @@
 
 
 
+<!-- END HEADER -->
+
+
 <br><br>
 
 
+## Table of Contents
 
+- [About This Project](#about-this-project)  
+- [Core Solana Resources](#core-solana-resources)  
+- [Developer Tools & SDKs](#developer-tools--sdks)  
+- [Solana Mobile & Seeker](#solana-mobile--seeker)  
+- [Star Atlas Economics](#star-atlas-economics)  
+- [Agents, Blueshift & AI](#agents-blueshift--ai)  
+- [Explorers & Analytics](#explorers--analytics)  
+- [Quantum & Project Eleven](#quantum--project-eleven)  
+- [Learning & Courses](#learning--courses)  
+- [Key Repos](#key-repos)  
+- [Key Links](#key-links)  
+- [Media & Demos](#media--demos)  
+- [Tags / Hashtags](#tags--hashtags)  
+
+
+<br><br>
 
 
 <!--
