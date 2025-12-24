@@ -5,8 +5,8 @@
 
 <br><br>
 
-# <p align="center"> 🇶 Solana • Star Atlas • Mobile • Quantum 🇧🇷  
-### <p align="center"> **Economics, Mobile, Agents & Post‑Quantum Security**
+# <p align="center"> 🇶 [Solana]() • [Star Atlas]() • [Mobile]() • [Quantum]() 🇧🇷  
+### <p align="center"> ***Economics, Mobile, Agents & Post‑Quantum Security***
 
 <br><br>
 
