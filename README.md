@@ -64,7 +64,7 @@
 - [Key Repos](#key-repos)  
 - [Key Links](#key-links)  
 - [Media & Demos](#media--demos)  
-- [Tags / Hashtags](#tags--hashtags)  
+- [CMTAT Solana - Compliance](#cmtat-solana--compliance)  
 
 
 <br><br>
