@@ -5,8 +5,8 @@
 
 <br><br>
 
-# <p align="center">  🇶  **Solana Start Atlas Economics** 🇧🇷  [***BUILT DIFFERENT***]()  [***LITERALLY***]()
-
+# <p align="center"> 🇶 Solana • Star Atlas • Mobile • Quantum 🇧🇷  
+### <p align="center"> **Economics, Mobile, Agents & Post‑Quantum Security**
 
 <br><br>
 
@@ -21,6 +21,8 @@ https://github.com/user-attachments/assets/fc672bf0-0746-4a45-a51c-766cad34beb5
 
 
 ##### <p align="center"> Let's Dance Galera Solana Remix - video by Fabi
+
+
 
 
 <br><br>
