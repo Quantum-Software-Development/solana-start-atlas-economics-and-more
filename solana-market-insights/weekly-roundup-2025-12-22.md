@@ -1,12 +1,24 @@
 
 
-# Last Weekly Roundup - Dec 22–26, 2025
+<br>
 
+# <p align="center">  [Year-End Weekly Roundup — Dec 22–26, 2025]()
+
+
+<br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f19e8e40-6883-4bcd-9a20-d59e64d7b3ab" alt="Image" />
+  <img
+    src="https://github.com/user-attachments/assets/f19e8e40-6883-4bcd-9a20-d59e64d7b3ab"
+    width="561"
+    height="548"
+    alt="Image"
+  />
 </p>
 
+
+
+<br><br>
 
 
 
