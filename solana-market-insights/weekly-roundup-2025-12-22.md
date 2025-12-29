@@ -46,21 +46,21 @@
 <br>
 
 
-- Figure’s **PRIME** market deposits on Kamino surpassed **$130M**
+[-]() Figure’s **PRIME** market deposits on Kamino surpassed **$130M**
 
-- Tokenized stock value on Solana reached a new **all-time high of ~$185M**
+[-]() Tokenized stock value on Solana reached a new **all-time high of ~$185M**
 
-- **OpenEden** launched **cUSDO**, a treasury-backed stablecoin
+[-]() **OpenEden** launched **cUSDO**, a treasury-backed stablecoin
 
-- Solana ETFs recorded **15 consecutive days of inflows**, exceeding **$766M** in total assets
+[-]() Solana ETFs recorded **15 consecutive days of inflows**, exceeding **$766M** in total assets
 
-- **xStocks** tokenized Tesla equity (**TSLAx**) surpassed **$50M** in value on Solana
+[-]() **xStocks** tokenized Tesla equity (**TSLAx**) surpassed **$50M** in value on Solana
 
-- RWA holders on Solana exceeded **124K** wallets (new ATH)
+[-]() RWA holders on Solana exceeded **124K** wallets (new ATH)
 
-- **Sunrise** opened issuer applications to bring assets to Solana with **day-one liquidity**
+[-]() **Sunrise** opened issuer applications to bring assets to Solana with **day-one liquidity**
 
-- **Orogold** surpassed **5,000** GOLD holders
+[-]() **Orogold** surpassed **5,000** GOLD holders
 
 
 
