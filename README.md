@@ -8,7 +8,7 @@
 <br><br><br>
 
 
-# <p align="center"> 🇶 [Solana]() • [Star Atlas]() • [Mobile]() • [Quantum]() 🇧🇷 🇬🇧  
+# <p align="center"> 🇶 [Solana]() • [Star Atlas]() • [Mobile]() • [Quantum]() • [Web 3]() 🇧🇷 
 ### <p align="center"> ***Economics, Mobile, Agents & Post‑Quantum Security***
 
 
