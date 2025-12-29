@@ -78,7 +78,7 @@
 - [CMTAT Solana - Compliance](#cmtat-solana--compliance)
 - [Code Examples – Rust (On‑Chain)](#code-examples--rust-on-chain)
 - [Code Examples – TypeScript (Client)](#code-examples--typescript-client)
-- [Media Access — Play or Download Options](#)
+- [Media Access — Play or Download Options](#media-access-play-or-download-ptions)
 
 
 <br><br>
