@@ -2,7 +2,7 @@
 
 <br>
 
-# <p align="center">  [Year-End Weekly Roundup — Dec 22–26, 2025]()
+# <p align="center">  [Year-End Weekly Roundup — Dec 22–26, 2025> 
 
 
 <br><br>
@@ -25,11 +25,15 @@
 <br><br>
 
 
-Markets may be in holiday mode, but capital activity on Solana didn’t pause.  
+## [Market]()
 
-ETF inflows continued, tokenized equities reached new highs, and new stablecoin products launched.
+<br>
 
-This marks the final weekly market snapshot of the year.
+[-]() Markets may be in holiday mode, but capital activity on Solana didn’t pause.  
+
+[-]()  ETF inflows continued, tokenized equities reached new highs, and new stablecoin products launched.
+
+[-]()  This marks the final weekly market snapshot of the year.
 
 
 
@@ -37,7 +41,10 @@ This marks the final weekly market snapshot of the year.
 
 
 
-## Key Highlights
+## [Key Highlights]()
+
+<br>
+
 
 - Figure’s **PRIME** market deposits on Kamino surpassed **$130M**
 
@@ -56,11 +63,18 @@ This marks the final weekly market snapshot of the year.
 - **Orogold** surpassed **5,000** GOLD holders
 
 
+
 <br><br>
 
 
-## Closing Note
 
-Despite seasonal slowdowns in global markets, Solana continued to see sustained capital inflows, growing RWA participation, and expanding tokenized financial infrastructure.
+
+> [!TIP]
+>  
+> ### Closing Note
+> Despite seasonal slowdowns in global markets, Solana continued to see sustained capital inflows, growing RWA participation, and expanding tokenized financial infrastructure.
+> <br>
+> 
+
 
 
