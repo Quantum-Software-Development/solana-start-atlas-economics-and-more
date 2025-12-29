@@ -80,6 +80,7 @@
 - [CMTAT Solana - Compliance](#cmtat-solana--compliance)
 - [Code Examples – Rust (On‑Chain)](#code-examples--rust-on-chain)
 - [Code Examples – TypeScript (Client)](#code-examples--typescript-client)
+- [Solana Market Insights](#solana-market-insights)
 - [Media Access — Play or Download Options](#media-access-play-or-download-ptions)
 
 
