@@ -86,17 +86,6 @@
 
 
 
-================================111
-
-
-##  Market Insights
-
-Weekly roundups tracking capital flows, RWAs,
-ETFs, and institutional activity on Solana.
-
-→ [Market Insights](./market-insights)
-
-================================111
 
 
 <br><br>
@@ -278,9 +267,27 @@ https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
 <br><br>
 <br><br>
 <br><br>
-<br><br>
+
+
+
+
+
+
+
 <br><br>
 
+
+##  [Market Insights]()
+
+<br>
+
+
+Weekly roundups tracking capital flows, RWAs, ETFs, and institutional activity on Solana.
+
+
+
+
+<br><br>
 
 
 ## [Media Access — Play or Download Options]()
@@ -294,7 +301,10 @@ https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
 
 
 
+
 <br><br>
+
+<!--Start Footer-->
 
 
 
