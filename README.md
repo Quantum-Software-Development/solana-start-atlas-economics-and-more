@@ -282,7 +282,7 @@ https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
 <br>
 
 
-Weekly roundups tracking capital flows, RWAs, ETFs, and institutional activity on Solana.
+[Acess]() Weekly roundups tracking capital flows, RWAs, ETFs, and institutional activity on Solana.
 
 
 
