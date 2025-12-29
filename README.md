@@ -78,6 +78,7 @@
 - [CMTAT Solana - Compliance](#cmtat-solana--compliance)
 - [Code Examples – Rust (On‑Chain)](#code-examples--rust-on-chain)
 - [Code Examples – TypeScript (Client)](#code-examples--typescript-client)
+- [Media Access — Play or Download Options](#)
 
 
 <br><br>
@@ -264,13 +265,28 @@ https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
 
 
 
+## [Media Access — Play or Download Options]()
+
+<br>
+
+ 
+[-]() The MP3 version is available for Download Only - Access MP3 [Here]()
+
+[-]() Play directly on GitHub using the MP4 version - Access MP4 [Here]()
+
 
 
 <br><br>
 
-## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+
+
+
+
+💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+
 
 <br><br>
+
 
 #### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
 
