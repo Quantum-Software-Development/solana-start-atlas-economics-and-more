@@ -282,9 +282,7 @@ https://github.com/user-attachments/assets/2edb1092-0642-4fbc-b969-10b008859a14
 <br>
 
 
-[Acess]() Weekly roundups tracking capital flows, RWAs, ETFs, and institutional activity on Solana.
-
-
+[Acess](https://github.com/Quantum-Software-Development/solana-atlas-quantum-hub/tree/2781feaf1c6191e7b9540ed13696749f211f8203/solana-market-insights) Weekly roundups tracking capital flows, RWAs, ETFs, and institutional activity on Solana.
 
 
 <br><br>
