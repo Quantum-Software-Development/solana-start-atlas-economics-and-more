@@ -2,7 +2,7 @@
 
 <br>
 
-# <p align="center">  [Year-End Weekly Roundup — Dec 22–26, 2025> 
+# <p align="center">  [Year-End Weekly Roundup — Dec 22–26, 2025]()
 
 
 <br><br>
