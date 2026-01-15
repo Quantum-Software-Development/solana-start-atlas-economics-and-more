@@ -12,19 +12,7 @@
 ### <p align="center"> ***Economics, Mobile, Agents & Post‑Quantum Security***
 
 
-<br><br><br>
-
-<!-- Freedom of Speeh 
-<br><br>
-
-###  ☆•.,¸,.•.🎶*F̘͍͖ͫ͘r̴̨̦͕̝ẹ̿͋̒̕ẹ̿͋̒̕ḑ̴̞͛̒o̯̱̊͊͢ṇ̤͛̒̍ o̯̱̊͊͢f̵͖̜̉ͅ S̵̙͕̀̃p̞̈͑̚͞ẹ̿͋̒̕ẹ̿͋̒̕c͕͗ͤ̕̕ḣ̖̻͛̓+*🎶 *¯`•.,¸,.•*     
-
-<br><br>
-
--->
-
-
-<br><br>
+<br><br><br><br>
 
 
 
