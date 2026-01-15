@@ -91,7 +91,7 @@ The goal is to serve as a **living index** for builders, researchers, and degen 
 
 ## [Core Solana Resources]()
 
-<br><br>
+<br>
 
 These links are the official starting point if you want to understand and build on Solana.
 
@@ -105,6 +105,7 @@ These links are the official starting point if you want to understand and build 
 
 <br><br>
 
+
 [-]() **Solana Documentation**
   
   ➠ https://solana.com/docs
@@ -114,7 +115,8 @@ These links are the official starting point if you want to understand and build 
 
 <br><br>
 
-[-]( **Solana Fundamentals – Reference Guide (QuickNode)**
+
+[-]() **Solana Fundamentals – Reference Guide (QuickNode)**
 
 
   ➠ https://www.quicknode.com/guides/solana-development/getting-started/solana-fundamentals-reference-guide
@@ -126,10 +128,15 @@ These links are the official starting point if you want to understand and build 
 <br><br>
 
 
+[-]() - **Solana RPC Overview**  
+
+   ➠ https://www.quicknode.com/docs/solana  
+  
+  Explains RPC concepts and performance characteristics of the Solana network.
 
 
 
-
+<br><br>
 
 
 
