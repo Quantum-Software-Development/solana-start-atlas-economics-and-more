@@ -75,7 +75,9 @@
 
 <br><br>
 
-## [About This Project
+## [About This Project]()
+
+<br>
 
 This repository is a curated hub that connects Solana core documentation, developer tools, Star Atlas economic research, Solana Mobile / Seeker resources, and post‑quantum security work with Project Eleven.  
 
