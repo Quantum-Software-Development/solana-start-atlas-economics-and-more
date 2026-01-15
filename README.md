@@ -89,6 +89,21 @@ The goal is to serve as a **living index** for builders, researchers, and degen 
 <br><br>
 
 
+## [Core Solana Resources]()
+
+<br><br>
+
+These links are the official starting point if you want to understand and build on Solana.
+
+- [**Solana Developers – official portal**]()  
+  https://solana.com/developers  
+  High‑level entry point with guides, examples, and ecosystem resources to start building on Solana. 
+
+<br>
+
+- [**Solana Documentation**]()  
+  https://solana.com/docs  
+  Core docs covering architecture, accounts, programs, transactions, validators, SPL tokens, and more. 
 
 
 
