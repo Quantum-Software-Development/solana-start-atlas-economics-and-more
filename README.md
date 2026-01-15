@@ -73,7 +73,15 @@
 
 
 
+<br><br>
 
+## [About This Project
+
+This repository is a curated hub that connects Solana core documentation, developer tools, Star Atlas economic research, Solana Mobile / Seeker resources, and post‑quantum security work with Project Eleven.  
+
+<br>
+
+The goal is to serve as a **living index** for builders, researchers, and degen nerds who want a single place to jump into Solana’s ecosystem, from DeFi and GameFi to quantum‑resistant cryptography. 
 
 
 <br><br>
@@ -82,10 +90,40 @@
 
 
 
-<!-- ━━━ 🚧 BUILDING IN PROGRESS 🚧 ━━━
 
 
-<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+
+━━━ 🚧 BUILDING IN PROGRESS 🚧 ━━━
+
+
 
 
 > [!TIP]
