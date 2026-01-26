@@ -131,7 +131,7 @@ These links are the official starting point if you want to understand and build 
 
 
 
-<br><br>
+<br><br><br>
 
 
 ## [Developer Tools & SDKs]() 
@@ -168,11 +168,16 @@ Key tools used by most Solana builders.
   JavaScript / TypeScript SDK to build clients and dApps that talk to Solana RPCs.
 
 
-
 <br>
 
+[-]() - **Solana Rust SDK** 
+
+  ➠ https://docs.solana.com/developing/on-chain-programs/developing-rust  
+  Rust primitives and patterns for writing on‑chain programs.
 
 
+
+<br><br><br>
 
 
 
