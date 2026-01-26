@@ -148,7 +148,7 @@ Key tools used by most Solana builders.
 [-]()  **Solana Core Node (Monorepo)**
    
   ➠ https://github.com/solana-labs/solana  
-  Main implementation of the Solana protocol (validator, CLI, on‑chain runtime). [web:11]
+  Main implementation of the Solana protocol (validator, CLI, on‑chain runtime). 
 
 
 <br>
