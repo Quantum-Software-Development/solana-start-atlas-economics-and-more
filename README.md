@@ -187,7 +187,8 @@ Key tools used by most Solana builders.
 
 - **Solana Developer Content (Foundation)**  
 
-
+  https://github.com/solana-foundation/developer-content  
+  Open‑source home for official courses, guides, and resource directories powering solana.com/developers.
 
 
 
