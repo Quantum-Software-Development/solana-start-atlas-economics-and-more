@@ -98,9 +98,10 @@ These links are the official starting point if you want to understand and build 
 <br>
 
 [-]() **Solana Developers – official portal**
-  
+
+ - High‑level entry point with guides, examples, and ecosystem resources to start building on Solana.  
  ➠ https://solana.com/developers <br>
-  High‑level entry point with guides, examples, and ecosystem resources to start building on Solana. 
+
 
 <br><br>
 
