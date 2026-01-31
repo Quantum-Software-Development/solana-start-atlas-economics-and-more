@@ -161,11 +161,13 @@ Key tools used by most Solana builders.
 
 [-]() **Solana Program Library (SPL)**  
 
+ 
+ -  Standard programs for tokens, associated token accounts, governance, etc.
  ➠  https://github.com/solana-labs/solana-program-library  
-  Standard programs for tokens, associated token accounts, governance, etc.
-
+ 
 
 <br><br>
+
 
 [-]() **Solana Web3.js SDK**  
  
