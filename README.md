@@ -129,8 +129,9 @@ These links are the official starting point if you want to understand and build 
 
 [-]()  **Solana RPC Overview**  
 
-   ➠ https://www.quicknode.com/docs/solana  
-   Explains RPC concepts and performance characteristics of the Solana network.
+- Explains RPC concepts and performance characteristics of the Solana network.  <br>
+➠ https://www.quicknode.com/docs/solana  
+
 
 
 
