@@ -195,19 +195,21 @@ Key tools used by most Solana builders.
 
 <br><br>
 
-[-]() **Solana Developer Content (Foundation)**  
 
-  ➠ https://github.com/solana-foundation/developer-content  
-  Open‑source home for official courses, guides, and resource directories powering solana.com/developers.
+[-]() **Solana Developer Content (Foundation)**  
+  
+- Open‑source home for official courses, guides, and resource directories powering solana.com/developers.  
+➠ https://github.com/solana-foundation/developer-content  
+  
 
 <br><br>
+
 
 [-]() **Community Resource Collections**
   
 
 - Solana Developer Resources (community list): <BR>
 ➠ https://github.com/CristinaSolana/solana-developer-resources
-  
 
 
 <br>
