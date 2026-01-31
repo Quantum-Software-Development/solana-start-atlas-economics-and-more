@@ -117,7 +117,7 @@ These links are the official starting point if you want to understand and build 
 [-]() **Solana Fundamentals – Reference Guide (QuickNode)**
 
   ➠ https://www.quicknode.com/guides/solana-development/getting-started/solana-fundamentals-reference-guide
-  Overview of accounts, programs, instructions, RPCs, and Solana’s Proof of History‑based consensus. [web:38][web:40]
+  Overview of accounts, programs, instructions, RPCs, and Solana’s Proof of History‑based consensus. 
 
 
 
