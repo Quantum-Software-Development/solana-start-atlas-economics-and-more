@@ -102,7 +102,7 @@ These links are the official starting point if you want to understand and build 
  ➠ https://solana.com/developers <br>
   High‑level entry point with guides, examples, and ecosystem resources to start building on Solana. 
 
-<br>
+<br><br>
 
 
 [-]() **Solana Documentation**
@@ -111,7 +111,7 @@ These links are the official starting point if you want to understand and build 
    Core docs covering architecture, accounts, programs, transactions, validators, SPL tokens, and more. 
 
 
-<br>
+<br><br>
 
 
 [-]() **Solana Fundamentals – Reference Guide (QuickNode)**
@@ -121,7 +121,7 @@ These links are the official starting point if you want to understand and build 
 
 
 
-<br>
+<br><br>
 
 
 [-]()  **Solana RPC Overview**  
