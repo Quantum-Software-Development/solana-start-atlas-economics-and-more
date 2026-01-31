@@ -192,10 +192,11 @@ Key tools used by most Solana builders.
 
 <br>
 
-- **Community Resource Collections**
+[-]() **Community Resource Collections**
   
-  - Solana Developer Resources (community list): https://github.com/CristinaSolana/solana-developer-resources
+   ➠ Solana Developer Resources (community list): https://github.com/CristinaSolana/solana-developer-resources
 
+<br>
 
   
 
