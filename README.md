@@ -171,11 +171,13 @@ Key tools used by most Solana builders.
 
 [-]() **Solana Web3.js SDK**  
  
- ➠  https://github.com/solana-labs/solana-web3.js  
-  JavaScript / TypeScript SDK to build clients and dApps that talk to Solana RPCs.
+ 
+-   JavaScript / TypeScript SDK to build clients and dApps that talk to Solana RPCs. <br>
+➠  https://github.com/solana-labs/solana-web3.js  
 
 
 <br><br>
+
 
 [-]() - **Solana Rust SDK** 
 
