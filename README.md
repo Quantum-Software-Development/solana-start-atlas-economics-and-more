@@ -221,6 +221,36 @@ Key tools used by most Solana builders.
 <br><br><br>
 
 
+## Solana Mobile & Seeker
+
+<br>
+
+Solana Mobile brings the Solana network natively to Android devices, and Seeker is the dApp‑first phone experience.
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
