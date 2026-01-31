@@ -189,8 +189,8 @@ Key tools used by most Solana builders.
 
 [-]() **Anchor Framework**  
 
+ - Batteries‑included framework for writing Solana programs with Rust + IDLs + client generation.
  ➠ https://github.com/coral-xyz/anchor  
-  Batteries‑included framework for writing Solana programs with Rust + IDLs + client generation.
   
 
 <br><br>
