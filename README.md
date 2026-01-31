@@ -208,12 +208,12 @@ Key tools used by most Solana builders.
 [-]() **Community Resource Collections**
   
 
-- Solana Developer Resources (community list) <br>
+[-]()b Solana Developer Resources (community list) <br>
 ➠ https://github.com/CristinaSolana/solana-developer-resources
 
 <br>
 
-  - Solana Programming Resources
+  [-]() Solana Programming Resources  <br>
   ➠ https://github.com/SolanaNatives/Solana-Programming-Resources
 
   
