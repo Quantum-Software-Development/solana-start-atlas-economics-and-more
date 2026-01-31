@@ -208,15 +208,18 @@ Key tools used by most Solana builders.
 [-]() **Community Resource Collections**
   
 
-- Solana Developer Resources (community list): <br>
+- Solana Developer Resources (community list) <br>
 ➠ https://github.com/CristinaSolana/solana-developer-resources
 
-
 <br>
+
+  - Solana Programming Resources
+  ➠ https://github.com/SolanaNatives/Solana-Programming-Resources
 
   
 
 
+<br><br><br>
 
 
 
