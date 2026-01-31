@@ -221,7 +221,7 @@ Key tools used by most Solana builders.
 <br><br><br>
 
 
-## Solana Mobile & Seeker
+## [Solana Mobile & Seeker]()
 
 <br>
 
