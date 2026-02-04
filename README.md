@@ -259,10 +259,13 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 ➠ Help Center <br>
 ➠ https://intercom.help/solana-mobile/en/ 
+
+<br>
    
 - Getting started requirements <br>
-- https://intercom.help/solana-mobile/en/articles/12483372-what-do-i-need-to-get-started 
+- https://intercom.help/solana-mobile/en/articles/12483372-what-do-i-need-to-get-started
 
+<br>
 
 ➠ Seeker collection <br>
 ➠ https://intercom.help/solana-mobile/en/collections/12871296-seeker
