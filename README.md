@@ -248,7 +248,7 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
   
 
   - SDK used to integrate mobile wallets, transactions, and Solana primitives into native and React Native apps. <br>
-  ➠ https://github.com/solana-mobile/solana-mobile-stack-sdk  
+[-]() https://github.com/solana-mobile/solana-mobile-stack-sdk  
 
 
 
@@ -258,12 +258,12 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 [-]() **Solana Mobile – Help Center & Seeker Docs**
 
 ➠ Help Center <br>
-➠ https://intercom.help/solana-mobile/en/ 
+[-]() https://intercom.help/solana-mobile/en/ 
 
 <br>
    
 - Getting started requirements <br>
-- https://intercom.help/solana-mobile/en/articles/12483372-what-do-i-need-to-get-started
+➠ https://intercom.help/solana-mobile/en/articles/12483372-what-do-i-need-to-get-started
 
 <br>
 
