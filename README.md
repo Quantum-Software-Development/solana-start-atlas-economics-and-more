@@ -232,7 +232,15 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 - Official documentation for the Solana Mobile Stack (SMS), including Mobile Wallet Adapter, Seed Vault, and Solana dApp Store.  <br>
 ➠ https://docs.solanamobile.com 
 
+
 <br><br>
+
+
+[-]() **Introduction to Solana Mobile – Course**
+  
+
+
+
 
 
 
