@@ -86,8 +86,7 @@ This repository is a curated hub that connects Solana core documentation, develo
 The goal is to serve as a **living index** for builders, researchers, and degen nerds who want a single place to jump into Solana’s ecosystem, from DeFi and GameFi to quantum‑resistant cryptography. 
 
 
-<br><br>
-
+<br>
 
 ## [Core Solana Resources]()
 
@@ -146,7 +145,7 @@ These links are the official starting point if you want to understand and build 
 
 Key tools used by most Solana builders.
 
-<br><br>
+<br>
 
 
 [-]()  **Solana Core Node (Monorepo)**
@@ -226,7 +225,7 @@ Key tools used by most Solana builders.
 
 Solana Mobile brings the Solana network natively to Android devices, and Seeker is the dApp‑first phone experience.
 
-<br><br>
+<br>
 
 - **Solana Mobile Stack – Docs**
   
