@@ -207,7 +207,6 @@ Key tools used by most Solana builders.
 
 [-]() **Community Resource Collections**
   
-
 - Solana Developer Resources (community list) <br>
 ➠ https://github.com/CristinaSolana/solana-developer-resources
 
@@ -229,7 +228,10 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 <br>
 
-
+- **Solana Mobile Stack – Docs**
+  
+  https://docs.solanamobile.com  
+  Official documentation for the Solana Mobile Stack (SMS), including Mobile Wallet Adapter, Seed Vault, and Solana dApp Store.
 
 
 
