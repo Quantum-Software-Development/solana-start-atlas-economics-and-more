@@ -257,8 +257,8 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 [-]() **Solana Mobile – Help Center & Seeker Docs**
 
-➠ Help Center <br>
-[-]() https://intercom.help/solana-mobile/en/ 
+- Help Center <br>
+➠ https://intercom.help/solana-mobile/en/ 
 
 <br>
    
@@ -267,7 +267,7 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 <br>
 
-➠ Seeker collection <br>
+- Seeker collection <br>
 ➠ https://intercom.help/solana-mobile/en/collections/12871296-seeker
 
 
