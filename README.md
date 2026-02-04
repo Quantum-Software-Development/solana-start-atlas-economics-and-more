@@ -272,12 +272,17 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 
 
-<br><br>
+<br><br><br>
 
 
 
+## [Star Atlas Economics]()
 
+<br>
 
+Star Atlas is one of the flagship GameFi projects on Solana, with deep economic design and on‑chain components.
+
+<br>
 
 
 
