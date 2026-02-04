@@ -284,7 +284,11 @@ Star Atlas is one of the flagship GameFi projects on Solana, with deep economic 
 
 <br>
 
+- **Star Atlas DAO**
 
+Governance portal for proposals, votes, and community decisions.
+  
+  
 
 
 
