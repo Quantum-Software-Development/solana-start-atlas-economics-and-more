@@ -237,8 +237,9 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 
 [-]() **Introduction to Solana Mobile – Course**
-  
 
+ - Course explaining mobile‑first app experiences, MWA flow, and how to build an Android Solana app with React Native. 
+ ➠ https://solana.com/developers/courses/mobile/intro-to-solana-mobile  
 
 
 
