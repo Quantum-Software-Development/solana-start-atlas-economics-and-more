@@ -244,7 +244,10 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 <br><br>
 
-
+[-]() **Solana Mobile Stack SDK (GitHub)**
+  
+  https://github.com/solana-mobile/solana-mobile-stack-sdk  
+  SDK used to integrate mobile wallets, transactions, and Solana primitives into native and React Native apps.
 
 
 
