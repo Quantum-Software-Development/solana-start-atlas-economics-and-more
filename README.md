@@ -248,7 +248,7 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
   
 
 - SDK used to integrate mobile wallets, transactions, and Solana primitives into native and React Native apps. <br>
-[-]() https://github.com/solana-mobile/solana-mobile-stack-sdk  
+- https://github.com/solana-mobile/solana-mobile-stack-sdk  
 
 
 
@@ -295,16 +295,15 @@ Star Atlas is one of the flagship GameFi projects on Solana, with deep economic 
 
 [**Star Atlas Economic Reports**]()
 
--  Official economic reports outlining in‑game systems, tokenomics, and macro‑design of the Star Atlas economy.
-
-
+- Official economic reports outlining in‑game systems, tokenomics, and macro‑design of the Star Atlas economy.
+➠ https://govern.staratlas.com/economy/economic-reports 
 
 <br>
 
-- [**Economic Paper**]()
+[**Economic Paper**]()
 
-- PDF – mirrored in this repo)**
-➠  See the PDF file [Here](https://github.com/Quantum-Software-Development/solana-atlas-quantum-hub/blob/ac585c0342faecae05d161505be07dbed309b241/star-atlas-economics-paper.pdf)
+- PDF – mirrored in this repo
+➠ See the PDF file [Here](https://github.com/Quantum-Software-Development/solana-atlas-quantum-hub/blob/ac585c0342faecae05d161505be07dbed309b241/star-atlas-economics-paper.pdf)
 
 
 <br>
