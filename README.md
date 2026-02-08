@@ -94,9 +94,10 @@ The goal is to serve as a **living index** for builders, researchers, and degen 
 
 These links are the official starting point if you want to understand and build on Solana.
 
-<br>
+<br><br>
 
-[-]() **Solana Developers – official portal**
+
+> [**Solana Developers – official portal**]()
 
  - High‑level entry point with guides, examples, and ecosystem resources to start building on Solana.  
  ➠ https://solana.com/developers 
@@ -105,7 +106,7 @@ These links are the official starting point if you want to understand and build 
 <br><br>
 
 
-[-]() **Solana Documentation**
+> [**Solana Documentation**]()
 
  - Core docs covering architecture, accounts, programs, transactions, validators, SPL tokens, and more.  <br>
  ➠ https://solana.com/docs 
@@ -114,9 +115,9 @@ These links are the official starting point if you want to understand and build 
 <br><br>
 
 
-[-]() **Solana Fundamentals – Reference Guide (QuickNode)**
+> [**Solana Fundamentals – Reference Guide (QuickNode)**]()
 
- 
+
  - Overview of accounts, programs, instructions, RPCs, and Solana’s Proof of History‑based consensus. <br>
  ➠ https://www.quicknode.com/guides/solana-development/getting-started/solana-fundamentals-reference-guide
 
@@ -126,7 +127,7 @@ These links are the official starting point if you want to understand and build 
 <br><br>
 
 
-[-]()  **Solana RPC Overview**  
+> [**Solana RPC Overview**]()  
 
 - Explains RPC concepts and performance characteristics of the Solana network.  <br>
 ➠ https://www.quicknode.com/docs/solana  
@@ -145,10 +146,9 @@ These links are the official starting point if you want to understand and build 
 
 Key tools used by most Solana builders.
 
-<br>
+<br><br>
 
-////////
-> [-]()  **Solana Core Node (Monorepo)**
+> **Solana Core Node (Monorepo)**]()
 
 
 - Main implementation of the Solana protocol (validator, CLI, on‑chain runtime). <br>
@@ -228,7 +228,7 @@ Key tools used by most Solana builders.
 
 Solana Mobile brings the Solana network natively to Android devices, and Seeker is the dApp‑first phone experience.
 
-<br>
+<br><br>
 
 > [**Solana Mobile Stack – Docs**]()
   
@@ -289,7 +289,7 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 Star Atlas is one of the flagship GameFi projects on Solana, with deep economic design and on‑chain components.
 
-<br>
+<br><br>
 
 > [**Star Atlas DAO**]()
 
