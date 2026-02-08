@@ -323,10 +323,10 @@ Star Atlas is one of the flagship GameFi projects on Solana, with deep economic 
 >
 
 
-<br><br>> <br>
+<br><br><br>
 
 
-[## Agents, Blueshift & AI]()
+## [Agents, Blueshift & AI]()
 
 
 
