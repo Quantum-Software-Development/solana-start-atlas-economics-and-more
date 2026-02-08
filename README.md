@@ -204,7 +204,7 @@ Key tools used by most Solana builders.
 <br><br>
 
 
-[-]() **Community Resource Collections**
+[**Community Resource Collections**]()
   
 - Solana Developer Resources (community list) <br>
 ➠ https://github.com/CristinaSolana/solana-developer-resources
@@ -228,7 +228,7 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 <br>
 
-[-]() **Solana Mobile Stack – Docs**
+[**Solana Mobile Stack – Docs**]()
   
 - Official documentation for the Solana Mobile Stack (SMS), including Mobile Wallet Adapter, Seed Vault, and Solana dApp Store.  <br>
 ➠ https://docs.solanamobile.com 
@@ -237,7 +237,7 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 <br><br>
 
 
-[-]() **Introduction to Solana Mobile – Course**
+[**Introduction to Solana Mobile – Course**]()
 
  - Course explaining mobile‑first app experiences, MWA flow, and how to build an Android Solana app with React Native. <br>
  ➠ https://solana.com/developers/courses/mobile/intro-to-solana-mobile  
@@ -245,7 +245,7 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 <br><br>
 
-[-]() **Solana Mobile Stack SDK (GitHub)**
+[-**Solana Mobile Stack SDK (GitHub)**]()
   
 
 - SDK used to integrate mobile wallets, transactions, and Solana primitives into native and React Native apps. <br>
@@ -257,6 +257,8 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 
 [**Solana Mobile – Help Center & Seeker Docs**]()
+
+<br>
 
 - Help Center <br>
 ➠ https://intercom.help/solana-mobile/en/ 
