@@ -209,7 +209,8 @@ Key tools used by most Solana builders.
 - Solana Developer Resources (community list) <br>
 ➠ https://github.com/CristinaSolana/solana-developer-resources
 
-<br>
+
+<br><br>
 
  - Solana Programming Resources  <br>
  ➠ https://github.com/SolanaNatives/Solana-Programming-Resources
@@ -284,7 +285,7 @@ Star Atlas is one of the flagship GameFi projects on Solana, with deep economic 
 
 <br>
 
-- [**Star Atlas DAO**]()
+[**Star Atlas DAO**]()
 
 - Governance portal for proposals, votes, and community decisions. <br>
 ➠ https://govern.staratlas.com/ 
@@ -298,7 +299,8 @@ Star Atlas is one of the flagship GameFi projects on Solana, with deep economic 
 - Official economic reports outlining in‑game systems, tokenomics, and macro‑design of the Star Atlas economy.
 ➠ https://govern.staratlas.com/economy/economic-reports 
 
-<br>
+
+<br><br>
 
 [**Economic Paper**]()
 
@@ -306,7 +308,7 @@ Star Atlas is one of the flagship GameFi projects on Solana, with deep economic 
 ➠ See the PDF file [Here](https://github.com/Quantum-Software-Development/solana-atlas-quantum-hub/blob/ac585c0342faecae05d161505be07dbed309b241/star-atlas-economics-paper.pdf)
 
 
-<br>
+<br><br>
 
 
 
