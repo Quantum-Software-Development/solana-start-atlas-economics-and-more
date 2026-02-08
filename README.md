@@ -284,7 +284,7 @@ Star Atlas is one of the flagship GameFi projects on Solana, with deep economic 
 
 <br>
 
-[-]() **Star Atlas DAO**
+- [**Star Atlas DAO**]()
 
 - Governance portal for proposals, votes, and community decisions. <br>
 ➠ https://govern.staratlas.com/ 
@@ -293,12 +293,17 @@ Star Atlas is one of the flagship GameFi projects on Solana, with deep economic 
 <br><br>
 
 
+
+<br>
+
+
 - [**Economic Paper**]()
 
 - PDF – mirrored in this repo)**
-➠  See the PDF file [here](https://github.com/Quantum-Software-Development/solana-atlas-quantum-hub/blob/ac585c0342faecae05d161505be07dbed309b241/star-atlas-economics-paper.pdf)
+➠  See the PDF file [Here](https://github.com/Quantum-Software-Development/solana-atlas-quantum-hub/blob/ac585c0342faecae05d161505be07dbed309b241/star-atlas-economics-paper.pdf)
 
 
+<br>
 
 
 
