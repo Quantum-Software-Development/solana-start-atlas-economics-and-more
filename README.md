@@ -256,17 +256,19 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 <br><br>
 
 
-[-]() **Solana Mobile – Help Center & Seeker Docs**
+[**Solana Mobile – Help Center & Seeker Docs**]()
 
 - Help Center <br>
 ➠ https://intercom.help/solana-mobile/en/ 
 
-<br>
+
+<br><br>
    
 - Getting started requirements <br>
 ➠ https://intercom.help/solana-mobile/en/articles/12483372-what-do-i-need-to-get-started
 
-<br>
+
+<br><br>
 
 - Seeker collection <br>
 ➠ https://intercom.help/solana-mobile/en/collections/12871296-seeker
@@ -291,7 +293,7 @@ Star Atlas is one of the flagship GameFi projects on Solana, with deep economic 
 ➠ https://govern.staratlas.com/ 
   
 
-<br>
+<br><br>
 
 
 [**Star Atlas Economic Reports**]()
