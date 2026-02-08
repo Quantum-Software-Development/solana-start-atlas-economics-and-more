@@ -168,7 +168,7 @@ Key tools used by most Solana builders.
 <br><br>
 
 
-[-]() **Solana Web3.js SDK**  
+[**Solana Web3.js SDK**]()
  
 - JavaScript / TypeScript SDK to build clients and dApps that talk to Solana RPCs. <br>
 ➠  https://github.com/solana-labs/solana-web3.js  
@@ -177,7 +177,7 @@ Key tools used by most Solana builders.
 <br><br>
 
 
-[-]() **Solana Rust SDK** 
+[**Solana Rust SDK**]() 
   
 - Rust primitives and patterns for writing on‑chain programs.  
 ➠ https://docs.solana.com/developing/on-chain-programs/developing-rust  
@@ -186,7 +186,7 @@ Key tools used by most Solana builders.
 <br><br>
 
 
-[-]() **Anchor Framework**  
+[**Anchor Framework**]() 
 
  - Batteries‑included framework for writing Solana programs with Rust + IDLs + client generation.  <br>
  ➠ https://github.com/coral-xyz/anchor  
@@ -195,7 +195,7 @@ Key tools used by most Solana builders.
 <br><br>
 
 
-[-]() **Solana Developer Content (Foundation)**  
+[**Solana Developer Content (Foundation)**]()  
   
 - Open‑source home for official courses, guides, and resource directories powering solana.com/developers.  
 ➠ https://github.com/solana-foundation/developer-content  
@@ -205,6 +205,8 @@ Key tools used by most Solana builders.
 
 
 [**Community Resource Collections**]()
+
+<br>
   
 - Solana Developer Resources (community list) <br>
 ➠ https://github.com/CristinaSolana/solana-developer-resources
