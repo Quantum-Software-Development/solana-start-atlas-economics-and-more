@@ -318,7 +318,7 @@ Star Atlas is one of the flagship GameFi projects on Solana, with deep economic 
 
 > [!NOTE]
 >  
->  This repo uses Star Atlas as a concrete case study to understand how large‑scale game economies can be implemented on Solana’s high‑throughput architecture.
+>  This repo uses [Star Atlas]() as a concrete case study to understand how large‑scale game economies can be implemented on Solana’s high‑throughput architecture.
 > <br>
 >
 
