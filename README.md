@@ -147,8 +147,8 @@ Key tools used by most Solana builders.
 
 <br>
 
-
-[-]()  **Solana Core Node (Monorepo)**
+////////
+> [-]()  **Solana Core Node (Monorepo)**
 
 
 - Main implementation of the Solana protocol (validator, CLI, on‑chain runtime). <br>
@@ -158,7 +158,7 @@ Key tools used by most Solana builders.
 <br><br>
 
 
-[-]() **Solana Program Library (SPL)**  
+> [**Solana Program Library (SPL)**]()  
 
  
  -  Standard programs for tokens, associated token accounts, governance, etc. <br>
@@ -168,7 +168,7 @@ Key tools used by most Solana builders.
 <br><br>
 
 
-[**Solana Web3.js SDK**]()
+> [**Solana Web3.js SDK**]()
  
 - JavaScript / TypeScript SDK to build clients and dApps that talk to Solana RPCs. <br>
 ➠  https://github.com/solana-labs/solana-web3.js  
@@ -177,7 +177,7 @@ Key tools used by most Solana builders.
 <br><br>
 
 
-[**Solana Rust SDK**]() 
+> [**Solana Rust SDK**]() 
   
 - Rust primitives and patterns for writing on‑chain programs.  
 ➠ https://docs.solana.com/developing/on-chain-programs/developing-rust  
@@ -186,7 +186,7 @@ Key tools used by most Solana builders.
 <br><br>
 
 
-[**Anchor Framework**]() 
+> [**Anchor Framework**]() 
 
  - Batteries‑included framework for writing Solana programs with Rust + IDLs + client generation.  <br>
  ➠ https://github.com/coral-xyz/anchor  
@@ -195,7 +195,7 @@ Key tools used by most Solana builders.
 <br><br>
 
 
-[**Solana Developer Content (Foundation)**]()  
+> [**Solana Developer Content (Foundation)**]()  
   
 - Open‑source home for official courses, guides, and resource directories powering solana.com/developers.  
 ➠ https://github.com/solana-foundation/developer-content  
@@ -204,7 +204,7 @@ Key tools used by most Solana builders.
 <br><br>
 
 
-[**Community Resource Collections**]()
+> [**Community Resource Collections**]()
 
 <br>
   
@@ -230,7 +230,7 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 <br>
 
-[**Solana Mobile Stack – Docs**]()
+> [**Solana Mobile Stack – Docs**]()
   
 - Official documentation for the Solana Mobile Stack (SMS), including Mobile Wallet Adapter, Seed Vault, and Solana dApp Store.  <br>
 ➠ https://docs.solanamobile.com 
@@ -239,7 +239,7 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 <br><br>
 
 
-[**Introduction to Solana Mobile – Course**]()
+> [**Introduction to Solana Mobile – Course**]()
 
  - Course explaining mobile‑first app experiences, MWA flow, and how to build an Android Solana app with React Native. <br>
  ➠ https://solana.com/developers/courses/mobile/intro-to-solana-mobile  
@@ -247,7 +247,7 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 
 <br><br>
 
-[-**Solana Mobile Stack SDK (GitHub)**]()
+> [-**Solana Mobile Stack SDK (GitHub)**]()
   
 
 - SDK used to integrate mobile wallets, transactions, and Solana primitives into native and React Native apps. <br>
@@ -258,7 +258,7 @@ Solana Mobile brings the Solana network natively to Android devices, and Seeker 
 <br><br>
 
 
-[**Solana Mobile – Help Center & Seeker Docs**]()
+> [**Solana Mobile – Help Center & Seeker Docs**]()
 
 <br>
 
