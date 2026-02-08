@@ -293,7 +293,7 @@ Star Atlas is one of the flagship GameFi projects on Solana, with deep economic 
 <br><br>
 
 
-- [**Economic Paper]()
+- [**Economic Paper**]()
 
 - PDF – mirrored in this repo)**
 ➠  See the PDF file [here](https://github.com/Quantum-Software-Development/solana-atlas-quantum-hub/blob/ac585c0342faecae05d161505be07dbed309b241/star-atlas-economics-paper.pdf)
